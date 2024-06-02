@@ -6,7 +6,5 @@ I ❤️ Tetris, drawing, bowling, skateboarding, and eating Haribo™️ Peache
 I'm learning...
 - 3D Modeling/Sculpting
 - 2D Animation
-- Computer Architecture
-- Database Design/Management
 - JavaScript/TypeScript
 - Illustration
