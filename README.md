@@ -1,10 +1,6 @@
 ### **👋 Hi!**
-<br>
-
-I ❤️ Tetris, drawing, bowling, skateboarding, and eating Haribo™️ Peaches + Oreos :tm:. 
-
-I'm learning...
-- 3D Modeling/Sculpting
-- 2D Animation
-- JavaScript/TypeScript
-- Illustration
+- Gideon (GEE), 21 yrs old
+- Graduating Spring 2026
+  - **Major** -> BS: CS - Software Eng. & Mobile/Web Dev.
+  - **Minor(s)** -> Graphic Design & Cinematic Arts
+- Striving towards Game Development
